@@ -1,2 +1,2 @@
-# Wasserstein-GAN-Image-Synthesis
-WGAN on a subset of Oxford102 dataset.
+# Conditional-GAN-Image-Synthesis
+Conditional GAN on a subset of Oxford102 dataset.
